@@ -1,0 +1,14 @@
+C:\Users\Tonija\Downloads\Učenje programiranja\development_environment\tinyclient\tinyclient\obj\Debug\net8.0\tinyclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonija\Downloads\Učenje programiranja\development_environment\tinyclient\tinyclient\obj\Debug\net8.0\tinyclient.AssemblyInfoInputs.cache
+C:\Users\Tonija\Downloads\Učenje programiranja\development_environment\tinyclient\tinyclient\obj\Debug\net8.0\tinyclient.AssemblyInfo.cs
+C:\Users\Tonija\Downloads\Učenje programiranja\development_environment\tinyclient\tinyclient\obj\Debug\net8.0\tinyclient.csproj.CoreCompileInputs.cache
+C:\Users\Tonija\Downloads\Učenje programiranja\development_environment\tinyclient\tinyclient\bin\Debug\net8.0\tinyclient.exe
+C:\Users\Tonija\Downloads\Učenje programiranja\development_environment\tinyclient\tinyclient\bin\Debug\net8.0\tinyclient.deps.json
+C:\Users\Tonija\Downloads\Učenje programiranja\development_environment\tinyclient\tinyclient\bin\Debug\net8.0\tinyclient.runtimeconfig.json
+C:\Users\Tonija\Downloads\Učenje programiranja\development_environment\tinyclient\tinyclient\bin\Debug\net8.0\tinyclient.dll
+C:\Users\Tonija\Downloads\Učenje programiranja\development_environment\tinyclient\tinyclient\bin\Debug\net8.0\tinyclient.pdb
+C:\Users\Tonija\Downloads\Učenje programiranja\development_environment\tinyclient\tinyclient\obj\Debug\net8.0\tinyclient.dll
+C:\Users\Tonija\Downloads\Učenje programiranja\development_environment\tinyclient\tinyclient\obj\Debug\net8.0\refint\tinyclient.dll
+C:\Users\Tonija\Downloads\Učenje programiranja\development_environment\tinyclient\tinyclient\obj\Debug\net8.0\tinyclient.pdb
+C:\Users\Tonija\Downloads\Učenje programiranja\development_environment\tinyclient\tinyclient\obj\Debug\net8.0\tinyclient.genruntimeconfig.cache
+C:\Users\Tonija\Downloads\Učenje programiranja\development_environment\tinyclient\tinyclient\obj\Debug\net8.0\ref\tinyclient.dll
